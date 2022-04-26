@@ -54,3 +54,26 @@ CRT: Cathode Ray Tube
 NTSC: North America / Japan. 60 frames per second. 525 scanlines.
 SECAM:
 PAL or PAL/SECAM: Europe, Africa, etc. 50 frames per second. 625 scanlines.
+
+## 6502 Processor Program
+
+### Storage Memory: 6 registers:
+ A: general programming.
+ X: general programming. Index Register
+ Y: general programming. Index Register
+ PC: internal information.
+ SP: internal information.
+ SR: internal information.
+
+### System Memory
+ - 64kb
+ - RAM, PRG-ROM
+ - 16-bit Addressing
+
+### Instructions
+ - ADC: Addition
+ - SBC: Subtraction
+ - INX:
+ - CMP: Decisions
+ - BNE:
+ - BCS: 
