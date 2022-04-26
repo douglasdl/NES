@@ -73,7 +73,16 @@ PAL or PAL/SECAM: Europe, Africa, etc. 50 frames per second. 625 scanlines.
 ### Instructions
  - ADC: Addition
  - SBC: Subtraction
- - INX:
+ - INX: Increment X
+ - INY: Increment Y
+ - DEX: Decrement X
+ - DEY: Decrement Y
  - CMP: Decisions
  - BNE:
  - BCS: 
+ - LDX: Load Data X
+ - LDY: LOad Data Y
+ - RTS:
+
+### .nes file
+CTRL+Shift+P: run build task
