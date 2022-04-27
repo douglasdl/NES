@@ -71,8 +71,10 @@ PAL or PAL/SECAM: Europe, Africa, etc. 50 frames per second. 625 scanlines.
  - 16-bit Addressing
 
 ### Instructions
- - ADC: Addition
- - SBC: Subtraction
+ - ADC: Addition (with Carry)
+ - SBC: Subtraction (with Carry)
+ - ASL: Arithmetic Shift Left ("multiply by 2")
+ - LSR: Logical Shift Right ("divide by 2")
  - INX: Increment X
  - INY: Increment Y
  - DEX: Decrement X
