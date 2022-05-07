@@ -1,7 +1,7 @@
 # NES
 
-[Assembly Simulator](http://skilldrick.github.io/easy6502/)
-[6502 Documentation](http://www.6502.org/tutorials/6502opcodes.html)
+- [Assembly Simulator](http://skilldrick.github.io/easy6502/)
+- [6502 Documentation](http://www.6502.org/tutorials/6502opcodes.html)
 
 ## Editor
  - VS Code
@@ -61,12 +61,12 @@ PAL or PAL/SECAM: Europe, Africa, etc. 50 frames per second. 625 scanlines.
 ## 6502 Processor Program
 
 ### Storage Memory: 6 registers:
- A: general programming.
- X: general programming. Index Register
- Y: general programming. Index Register
- PC: internal information.
- SP: internal information.
- SR: internal information.
+ - A: general programming.
+ - X: general programming. Index Register
+ - Y: general programming. Index Register
+ - PC: internal information.
+ - SP: internal information.
+ - SR: internal information.
 
 ### System Memory
  - 64kb
