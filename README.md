@@ -1,6 +1,7 @@
 # NES
 
 [Assembly Simulator](http://skilldrick.github.io/easy6502/)
+[6502 Documentation](http://www.6502.org/tutorials/6502opcodes.html)
 
 ## Editor
  - VS Code
@@ -81,12 +82,12 @@ PAL or PAL/SECAM: Europe, Africa, etc. 50 frames per second. 625 scanlines.
  - INY: Increment Y
  - DEX: Decrement X
  - DEY: Decrement Y
- - CMP: Decisions
- - BNE:
- - BCS: 
- - LDX: Load Data X
- - LDY: LOad Data Y
- - RTS:
+ - CMP: CoMPare accumulator
+ - BNE: Branch on Not Equal
+ - BCS: Branch on Carry Set
+ - LDX: LoaD X register
+ - LDY: LoaD Y register
+ - RTS: ReTurn from Subroutine
 
 ### .nes file
 CTRL+Shift+P: run build task
