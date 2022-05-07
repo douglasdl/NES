@@ -2,6 +2,7 @@
 
 - [Assembly Simulator](http://skilldrick.github.io/easy6502/)
 - [6502 Documentation](http://www.6502.org/tutorials/6502opcodes.html)
+- [Tutorial](https://www.kibrit.tech/en/blog/nes-game-development-part-1)
 
 ## Editor
  - VS Code
