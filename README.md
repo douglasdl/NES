@@ -1,5 +1,7 @@
 # NES
 
+[Assembly Simulator](http://skilldrick.github.io/easy6502/)
+
 ## Editor
  - VS Code
  - Extension: [ca65 Macro Assembler Language Support (6502/65816)](https://marketplace.visualstudio.com/items?itemName=tlgkccampbell.code-ca65)
